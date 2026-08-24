@@ -1,0 +1,1 @@
+1. Ashish github repo mentioning all the patterns/topics for lld - [repo](https://github.com/ashishps1/awesome-low-level-design)
