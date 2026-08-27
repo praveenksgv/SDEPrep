@@ -18,3 +18,13 @@ records = [
 ]
 # Output: [("B200", "WH1"), ("A100", "WH1"), ("A100", "WH2")]
 ```
+
+5. Why to use sqlalchamy in your Nullaxis Project? How does it create a connection with mysql/postgres etc?
+
+6. What is alembic migrations? Why to use it?
+
+7. What is pydantic and why to use it?
+
+8. what is fastapi builtin api documentation?
+
+9. What is a counter cache in redis? what is a lua script? If I have to give coupans to 1000 people and I kept this number in redis, and 1M requests hit the redis together(at the same time), how will we handle it?
