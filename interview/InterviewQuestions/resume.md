@@ -28,3 +28,15 @@ records = [
 8. what is fastapi builtin api documentation?
 
 9. What is a counter cache in redis? what is a lua script? If I have to give coupans to 1000 people and I kept this number in redis, and 1M requests hit the redis together(at the same time), how will we handle it?
+
+10. GET vs POST vs PUT vs PATCH vs DELETE request type.
+
+
+
+12. What are the decorators in python?
+
+13. What is a shallow copy and deep copy in python?
+
+14. What is the maximum size of file that can be uploaded to amazon s3?
+
+15. What is the maximum time an aws lambda function can run for?

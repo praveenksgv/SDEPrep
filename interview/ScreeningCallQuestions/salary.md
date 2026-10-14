@@ -14,3 +14,5 @@
 ```
 - I was on the paycheck of recro and Nullaxis I was working for. They had a contract which ended now, so exploring the opportunities.
 ```
+
+4. What kinda opportunity are you looking for ?

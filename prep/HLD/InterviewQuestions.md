@@ -37,3 +37,8 @@ The synchronization could follow either a pull-based or push-based approach. Bot
 
 - the interviewer was interested in the approaches not the arcitecture diagram etc.
 ```
+
+
+3. Design Instagram - Wanderon First Round
+
+4. Design URL Shortner - DigitalOcean

@@ -1,1 +1,0 @@
-1. Finish this striver's [sheet](https://takeuforward.org/dsa/strivers-sde-sheet-top-coding-interview-problems) => Total 191 Problems.
