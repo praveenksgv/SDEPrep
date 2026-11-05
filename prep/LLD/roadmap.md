@@ -36,8 +36,8 @@ Source: [Awesome Low Level Design](https://github.com/ashishps1/awesome-low-leve
 
 ### Creational Patterns
 
-- [ ] [Singleton](https://algomaster.io/learn/lld/singleton)
-- [ ] [Factory Method](https://algomaster.io/learn/lld/factory-method)
+- [x] [Singleton](https://algomaster.io/learn/lld/singleton)
+- [x] [Factory Method](https://algomaster.io/learn/lld/factory-method)
 - [ ] [Abstract Factory](https://algomaster.io/learn/lld/abstract-factory)
 - [ ] [Builder](https://algomaster.io/learn/lld/builder)
 - [ ] [Prototype](https://algomaster.io/learn/lld/prototype)
