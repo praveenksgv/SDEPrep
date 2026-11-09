@@ -57,3 +57,4 @@
 29. Have you worked with traditional NLP libraries or low-level natural language processing techniques, beyond using LLMs?
 
 30. Can you describe a recent situation where a technical decision you made failed, or where you missed a deadline? How did you recover, and what did you learn?
+31. What did you do to prevent prompt injection in your LLM applications?

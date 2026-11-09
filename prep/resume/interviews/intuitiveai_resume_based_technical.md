@@ -49,3 +49,4 @@ Project-Based Questions
 36. How did you deploy and secure AI services on Azure Kubernetes?
 37. What production challenges did you face with LLM applications?
 38. How did you monitor and evaluate your AI pipelines?
+39. What did you do to prevent prompt injection in your LLM applications?
